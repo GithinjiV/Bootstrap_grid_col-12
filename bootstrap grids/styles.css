@@ -1,0 +1,37 @@
+.main{
+    background-color:rgb(210,107,40);
+}
+
+body{
+    margin-top: 50px;
+}
+
+h5{
+    font-family: 'Lucida Console';
+    font-size: 16px;
+    word-spacing: 4px;
+    text-align: center;
+}
+
+p{
+    margin: 0px;
+    font-size: 12px;
+    width: auto;
+}
+
+.icons{
+    text-align: center;
+    color: black;
+    margin-top: -30px;
+}
+
+#btn {
+  padding: 4px;
+  width: 100px;
+  background-color: lawngreen;
+  border: none;
+  box-shadow: 1px 1px 2px lawngreen;
+  float: right;
+}
+  
+ 
