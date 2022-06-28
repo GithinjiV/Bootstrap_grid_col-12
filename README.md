@@ -1,2 +1,2 @@
-bootstrap grids/index.html
+# Bootstrap_grid_col-12
  
